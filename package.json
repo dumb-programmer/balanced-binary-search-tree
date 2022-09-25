@@ -1,0 +1,23 @@
+{
+  "name": "balanced-binary-search-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumb-programmer/balanced-binary-search-tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumb-programmer/balanced-binary-search-tree/issues"
+  },
+  "homepage": "https://github.com/dumb-programmer/balanced-binary-search-tree#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
